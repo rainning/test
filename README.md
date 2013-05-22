@@ -1,4 +1,4 @@
 test
 ====
 
-first trial
+GitHub's first trial
